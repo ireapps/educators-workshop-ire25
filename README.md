@@ -1,5 +1,5 @@
-#IRE25 Workshop
-##Integrating data into your curriculum: A workshop for educators teaching data
+# IRE25 Workshop
+## Integrating data into your curriculum: A workshop for educators teaching data
 
 
 Description:
