@@ -5,6 +5,6 @@
 - [Reporting with Numbers](https://www.reportingwithnumbers.com)
 - [Numbers in the Newsroom](https://www.ire.org/product/numbers-in-the-newsroom-using-math-and-statistics-in-news-second-edition-e-version/)
 - [From Relationships to Ranking: Angles for Your Next Data Story](https://gijn.org/stories/from-relationships-to-ranking-angles-for-your-next-data-story/)
-- [Chapter Five: The Numbers Don’t Speak for Themselves](https://mitpressonpubpub.mitpress.mit.edu/pub/6ui5n4vo/release/4)
+- [Data Feminism Book](https://data-feminism.mitpress.mit.edu/pub/czq9dfs5/release/3)
 - [Putting Data Back Into Context: Why Context is Hard](https://datajournalism.com/read/longreads/putting-data-back-into-context)
 - [Data Visualization: Reasons, not Rules](https://vimeo.com/channels/eyeo2022/777860636)
