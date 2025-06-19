@@ -8,3 +8,4 @@
 - [Data Feminism Book](https://data-feminism.mitpress.mit.edu/pub/czq9dfs5/release/3)
 - [Putting Data Back Into Context: Why Context is Hard](https://datajournalism.com/read/longreads/putting-data-back-into-context)
 - [Data Visualization: Reasons, not Rules](https://vimeo.com/channels/eyeo2022/777860636)
+- [“Raw Data” Is an Oxymoron](https://dsl.lsu.edu/nehtextualdata/wp-content/uploads/2017/11/RawData.pdf)

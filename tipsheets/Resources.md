@@ -8,4 +8,5 @@
 - [Math for Journalists Interactive Notebook](https://observablehq.com/@nshiab/math-for-journalists)
 - [Calculators from Numbers in the Newsroom](https://observablehq.com/collection/@palewire/numbers-in-the-newsroom)
 - [Dataviz Caveats](https://www.data-to-viz.com/caveats.html)
-- 
+- [Datawrapper Training](blog.datawrapper.de/training)
+- [Flourish Training](https://flourish.studio/resources/training/)
